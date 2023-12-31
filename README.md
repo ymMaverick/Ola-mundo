@@ -3,4 +3,4 @@
 
 estamos avançando ...
 
- essa linha eu alterei assistindo a live kkk
+ essa linha eu alterei assistindo a esta live kkk
