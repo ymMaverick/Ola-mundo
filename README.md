@@ -1,2 +1,4 @@
-# Ola-mundo
+# Ola, mundo !
  primeiro repositorio
+
+estamos avançando ...
